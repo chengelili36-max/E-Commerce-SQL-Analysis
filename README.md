@@ -27,7 +27,6 @@ The goal of this analysis is to bypass standard BI tools and rely purely on raw 
 * `02_repurchase_intervals.sql`: SQL script for calculating Monthly Active Users (MAU) and repeat purchase rates and SQL script utilizing Window Functions to calculate the average days between orders.
 * `monthly_retention.csv`: Query results for retention metrics.
 * `repurchase_intervals.csv`: Query results for the 79.2-day interval calculation.
-* `ER_Diagram.png`: Entity-Relationship diagram illustrating the database schema and table joins (`customers` to `orders`).
 
 ---
 *Created by Chenge Li | Data Analyst*
